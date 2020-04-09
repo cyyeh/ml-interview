@@ -2,7 +2,8 @@
 
 ## Interview Guide
 
-- [reference](https://career-resource-center.udacity.com/interview-courses-and-guides/machine-learning)
+- [Interview Guide](https://career-resource-center.udacity.com/interview-courses-and-guides/machine-learning)
+- [Machine Learning Interview Practice Checklist](https://docs.google.com/document/d/e/2PACX-1vSYBV2l-IUU8rFPa6ldB5CSCrrnz_czoVMGN5G2hRRjfUjlG82a-tif0sO4QUF_MBkgeOj6U44ACOqM/pub?embedded=true)
 
 ### Skills and Sample Questions
 
